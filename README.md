@@ -113,6 +113,10 @@ in various programming languages.
 * **Extended call-by-push-value: reasoning about effectful programs and evaluation order** (ESOP 2019)  
   by Dylan McDermott and Alan Mycroft  
   ([pdf](https://www.cl.cam.ac.uk/~dm606/extended-call-by-push-value.pdf))
+  
+* **One Monad to Prove Them All** (\<Programming\> 2019)  
+  by Sandra Dylus, Jan Christiansen, Finn Teegen  
+  ([pdf](https://arxiv.org/pdf/1805.08059v4)) ([doi](10.22152/programming-journal.org/2019/3/8)) ([bib](https://dblp.uni-trier.de/rec/bibtex/journals/programming/DylusCT19))
 
 * **Abstracting Algebraic Effects** (POPL 2019)  
   by Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, and Filip Sieczkowski  
